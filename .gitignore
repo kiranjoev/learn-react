@@ -1,0 +1,7 @@
+base_project/node_modules
+base_project/.DS_Store
+styling_project/node_modules
+styling_project/.DS_Store
+
+.DS_Store
+**/.DS_Store
