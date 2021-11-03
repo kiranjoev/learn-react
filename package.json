@@ -2,7 +2,6 @@
   "name": "learn_react",
   "version": "1.0.0",
   "description": "A playground where I will experiment stuff while learning react",
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/kiranjoev/learn-react/issues"
   },
-  "homepage": "https://github.com/kiranjoev/learn-react#readme"
+  "homepage": "https://github.com/kiranjoev/learn-react#readme",
+  "devDependencies": {
+    "prettier": "^2.4.1"
+  }
 }
