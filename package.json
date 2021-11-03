@@ -1,0 +1,19 @@
+{
+  "name": "learn_react",
+  "version": "1.0.0",
+  "description": "A playground where I will experiment stuff while learning react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiranjoev/learn-react.git"
+  },
+  "author": "Kiran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiranjoev/learn-react/issues"
+  },
+  "homepage": "https://github.com/kiranjoev/learn-react#readme"
+}
